@@ -1,10 +1,10 @@
 import re
 
-# File 'lib.txt' hanya berisi define
-# File 'raw.cpp' hanya berisi kode dibawah define (define boleh dicantumkan tapi tidak boleh ada di file lib.txt)
+# File 'lib.cpp' hanya berisi define
+# File 'raw.cpp' hanya berisi kode dibawah define (define boleh dicantumkan tapi tidak boleh ada di file lib.cpp)
 
 lib = {}
-with open('lib.txt','r') as f :
+with open('lib.cpp','r') as f :
     d = f.readlines()
     for i in d:
         data = i.rstrip("\n")
