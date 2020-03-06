@@ -1,17 +1,17 @@
-#define kontol int
-#define kontool (
-#define kontoool )
-#define memek <<
-#define memekk >>
-#define crot cout
-#define croot return
-#define kontols main
-#define ngen {
-#define tot }
-#define meki ;
-#define nyolok cin
-#define sperma string
-#define penis if
-#define vagina while
-#define smallpp else if
-#define mandul else
+#define a int
+#define aa (
+#define aaa )
+#define b <<
+#define bb >>
+#define c cout
+#define cc return
+#define d main
+#define e {
+#define f }
+#define g ;
+#define h cin
+#define i string
+#define j if
+#define k while
+#define l else if
+#define m else
