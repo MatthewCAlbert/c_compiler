@@ -1,2 +1,5 @@
+lib.cpp
+raw.cpp
+out.cpp
 __pycache__/*
 __pycache__
